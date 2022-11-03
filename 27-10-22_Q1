@@ -1,3 +1,4 @@
+public class bankprocess {
 private int pass=12345678;
 	private int ac_bal=100000;
 	//Creating getter setter methods to access private variables in other class
